@@ -1,0 +1,42 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Slurp
+Allow: /
+
+User-agent: msnbot
+Allow: /
+
+User-agent: ia_archiver
+Allow: /
+
+User-agent: Scrubby
+Allow: /
+
+User-agent: baiduspider
+Allow: /
+
+Sitemap: https://ayeshakhan.me/sitemap.xml
+
+User-agent: httrack
+User-agent: NetCaptor
+User-agent: Offline Explorer
+User-agent: SpiderKU/0.9
+User-agent: Steeler
+User-agent: WebCopier V3.3
+User-agent: WebCopier V3.2a
+User-agent: WebCopier
+User-agent: webcawler
+User-agent: Web Downloader/4.9
+User-agent: Web Downloader/5.8
+User-agent: WebGather 3.0
+User-agent: WebStripper/2.56
+User-agent: WebZIP/3.65
+User-agent: WebZIP
+User-agent: Wget
+User-agent: Zao
+User-agent: Zeus 2.6
+Disallow: /
